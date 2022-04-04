@@ -1,4 +1,5 @@
 # My CV in LaTeX
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/elahe-dastan/elahe-dastan.pdf/latex?label=latex&logo=github&style=flat-square)
 
 The resume typesetting is done in XeLaTeX.
 
